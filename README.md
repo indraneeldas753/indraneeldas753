@@ -1,4 +1,45 @@
-## Hi there 👋
+## Hi there 👋, I'm Indraneel Das
+
+🎓 BBA Student | 🚀 Aspiring Product Manager  
+📊 Interested in Data Analytics, Business Strategy & Digital Marketing  
+
+---
+
+## 💡 About Me
+- 🌱 Currently learning: IBM Cognos, Data Analytics  
+- 🎯 Goal: Become a Product Manager  
+- 💬 Ask me about: Business, Marketing, Basic Analytics  
+- 📍 Location: India  
+
+---
+
+## 🛠️ Skills & Tools
+- 📊 Data Analytics (Beginner)
+- 📈 IBM Cognos
+- 📑 MS Excel
+- 📢 Digital Marketing Basics
+
+---
+
+## 📌 Projects
+- 📊 Customer Segmentation Analysis (IBM Cognos)
+- 📈 Data Visualization Reports  
+- 🧠 Business Case Studies  
+
+---
+
+## 📈 GitHub Stats
+![Indraneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: (https://www.linkedin.com/in/indraneel-das-7186b6361?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 📧 Email: (indraneeldas753@gmail.com)
+
+---
+
+⭐️ “Always learning, always building.”
 
 <!--
 **indraneeldas753/indraneeldas753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
