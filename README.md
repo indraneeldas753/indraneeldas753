@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Indraneel Das
-<img width="450" height="245" alt="image" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSddG8dSr4vacoH1Q9nSP8nkw_GGhPzN0Ww&s>
+<img width="450" height="245" alt="image" src=https://www.smartdatacollective.com/so-what-business-analytics-its-various-components/>
 🎓 BBA Student | 🚀 Aspiring Product Manager  
 📊 Interested in Data Analytics, Business Strategy & Digital Marketing  
 
