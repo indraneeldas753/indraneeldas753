@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Indraneel Das
-
+<img width="450" height="245" alt="image" src="https://github.com/user-attachments/assets/0062ef71-6a72-467e-82f0-6b66f83bad06" />
 🎓 BBA Student | 🚀 Aspiring Product Manager  
 📊 Interested in Data Analytics, Business Strategy & Digital Marketing  
 
