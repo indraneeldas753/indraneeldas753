@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Indraneel Das
-<img width="450" height="245" alt="image" src="https://github.com/user-attachments/assets/0062ef71-6a72-467e-82f0-6b66f83bad06" />
+<img width="450" height="245" alt="image" src=https://assets.everspringpartners.com/dims4/default/18bf560/2147483647/strip/true/crop/1204x632+78+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Feverspring-brightspot.s3.us-east-1.amazonaws.com%2Fca%2F3b%2Fd9e41e954f32a1a103cfbdd7efee%2Fbusiness-analytics.jpg/>
 🎓 BBA Student | 🚀 Aspiring Product Manager  
 📊 Interested in Data Analytics, Business Strategy & Digital Marketing  
 
